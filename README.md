@@ -17,4 +17,13 @@ Phishing is a type of cyberattack where criminals pretend to be trusted sources 
 ### Malware 
 Malware (short for malicious software) is any program or code created to damage, disrupt, or gain unauthorized access to computers, networks, or data. In simple terms, it’s like a digital germ that infects your device and causes trouble.
 
-### 
+### Ransomeware 
+Ransomware is a type of malware that locks or encrypts your files and demands payment (a ransom) to unlock them.
+
+### Social Engineering 
+Social engineering in cybersecurity is when attackers manipulate people into giving away sensitive information or access, instead of directly hacking computers.
+
+### Dos/DDos
+A DDoS attack (short for Distributed Denial of Service) is when attackers flood a website, server, or network with so much traffic that it becomes overwhelmed and stops working properly
+
+## Give one real-life example of each 
